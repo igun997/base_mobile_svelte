@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/base_mobile_pwa.iml" filepath="$PROJECT_DIR$/.idea/base_mobile_pwa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/smk_mobile.iml" filepath="$PROJECT_DIR$/.idea/smk_mobile.iml" />
     </modules>
   </component>
 </project>
